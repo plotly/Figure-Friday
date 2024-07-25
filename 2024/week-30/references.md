@@ -1,1 +1,1 @@
-Thank you to the [Rural Development Agency](https://www.rd.usda.gov/rural-data-gateway/rural-investments/data) for the data
+Thank you to the [Rural Development Agency](https://www.rd.usda.gov/rural-data-gateway/rural-investments/data) for the data and for the [data dictionary](https://www.rd.usda.gov/media/file/download/opendatadashboard-dictionarypdf).
