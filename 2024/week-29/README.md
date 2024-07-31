@@ -123,3 +123,6 @@ Each team has been given a unique ID in the format of `T-###-T`. This is to enab
 | points| The number of points that the team earned over the whole season (after applying `point_adjustment`).|
 | point_adjustment| The number of points that were deducted by the league due to violations of rules or added by the league due to forfeits.|
 | season_outcome| The outcome for the team following the season. This variable is included to track the movement of teams across seasons more easily. Possible values are `Club folded`, `No change` for when the team remains in their current tier, `Promoted to tier 1` for when the team moves into tier 1 from a lower tier, `Relegated to tier 2` for when the team moves into tier 2 from a higher tier, and `Relegated to tier 3` for when the team moves into tier 3 from a higher tier, and `Relegated to tier 5` for when the team moves into tier 5 from a higher tier.|
+
+
+Note - The `team_logos` folder was added for @mo.elauzei's Figure Friday app that was added to the Dash Example Index.  More info on the [forum](https://community.plotly.com/t/figure-friday-2024-week-29/85928/60) which is now added to the Dash Exmaple Index. 
