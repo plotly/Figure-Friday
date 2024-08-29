@@ -1,4 +1,4 @@
-This folder contains all of the data used in The Pudding essay A People Map of the US published in May 2019.
+This folder contains all of the data used in The Pudding essay [A People Map of the US published in May 2019](https://pudding.cool/2019/05/people-map/), where city names are replaced by their most Wikipedia’ed resident: people born in, lived in, or connected to a place.
 
 The data will never be updated.
 
