@@ -1,0 +1,253 @@
+species_code,genus,species,habit,form,common_name,category
+ACNA2,Acourtia,nana,P,FORB,desert holly,PerennialForb
+ACOUR,Acourtia,sp.,,FORB,Unknown,
+ALCH,Allionia,choisyi,A,FORB,annual windmills,Annual
+ALIN,Allionia,incarnata,P,FORB,trailing windmills,PerennialForb
+AMAC2,Ambrosia,acanthicarpa,A,FORB,flatspine bur ragweed,Annual
+AMAL,Amaranthus,albus,A,FORB,prostrate pigweed,Annual
+AMARA,Amaranthus,sp.,,,Unknown,
+AMCH3,Ammocodon,chenopodioides,P,FORB,goosefoot moonpod,PerennialForb
+AMRE,Amaranthus,retroflexus,A,FORB,redroot amaranth,Annual
+APRA,Aphanostephus,ramosissimus,A,FORB,plains dozedaisy,Annual
+ARAD,Aristida,adscensionis,A,GRASS,sixweeks threeawn,Annual
+ARIST,Aristida,sp.,,GRASS,Unknown,
+ARPA9,Aristida,pansa,P,GRASS,Wooton's threeawn,Cover
+ARPU9,Aristida,purpurea,P,GRASS,purple threeawn,Cover
+ARPUL,Aristida,purpurea v. longiseta,P,GRASS,Fendler threeawn,Cover
+ARTE3,Aristida,ternipes,P,GRASS,spidergrass,Cover
+ARTEM,Artemisia,sp.,,,Unknown,
+ASAL6,Astragalus,allochrous,ABP,FORB,halfmoon milkvetch,Annual
+ASMOB,Astragalus,mollissimus v. bigelovii,P,FORB,woolly locoweed,PerennialForb
+ASNU4,Astragalus,nuttallianus,A,FORB,smallflowered milkvetch,Annual
+ASPA14,Astragalus,pattersonii,P,FORB,Patterson's milkvetch,PerennialForb
+ASSU2,Asclepias,subverticillata,P,FORB,horsetail milkweed,PerennialForb
+ASTE8,Astragalus,tephrodes,P,FORB,ashen milkvetch,PerennialForb
+ASTRA,Astragalus,sp.,,,Unknown,
+ATCA2,Atriplex,canescens,P,SHRUB,fourwing saltbush,Cover
+BAAB,Bahia,absinthifolia,P,FORB,hairyseed bahia,PerennialForb
+BABI3,Bahia,biternata,A,FORB,slimlobe bahia,Annual
+BAMU,Baileya,multiradiata,AB,FORB,desert marigold,Annual
+BELY,Berlandiera,lyrata,P,FORB,lyreleaf greeneyes,PerennialForb
+BOAR,Bouteloua,aristidoides,A,GRASS,needle grama,Annual
+BOBA2,Bouteloua,barbata,A,GRASS,sixweeks grama,Annual
+BOCU,Bouteloua,curtipendula,P,GRASS,sideoats grama,Cover
+BOER4,Bouteloua,eriopoda,P,GRASS,black grama,Cover
+BOGR2,Bouteloua,gracilis,P,GRASS,blue grama,Cover
+BOHI2,Bouteloua,hirsuta,P,GRASS,hairy grama,Cover
+BOSP,Boerhavia,spicata,A,FORB,creeping spiderling,Annual
+BOUTE,Bouteloua,sp.,,GRASS,Unknown,
+CESP4,Cenchrus,spinifex,AP,GRASS,coastal sandbur,Cover
+CHAL11,Chamaesyce,albomarginata,P,FORB,whitemargin sandmat,PerennialForb
+CHAMA15,Chamaesyce,sp.,,,Unknown,
+CHAMA8,Chamaesaracha,sp.,,,Unknown,
+CHCO,Chamaesaracha,coniodes,P,FORB,gray five eyes,PerennialForb
+CHCO2,Chamaesaracha,coronopus,P,FORB,greenleaf five eyes,PerennialForb
+CHENO,Chenopodium,sp.,,,Unknown,Annual
+CHER2,Chaetopappa,ericoides,P,FORB,rose heath,PerennialForb
+CHGL13,Chamaesyce,glyptosperma,A,FORB,ribseed sandmat,Annual
+CHIN2,Chenopodium,incanum,A,FORB,mealy goosefoot,Annual
+CHLE4,Chenopodium,leptophyllum,A,FORB,narrowleaf goosefoot,Annual
+CHMI7,Chamaesyce,micromera,A,FORB,Sonoran sandmat,Annual
+CHSE6,Chamaesyce,serpyllifolia,A,FORB,thymeleaf sandmat,Annual
+CHSE7,Chamaesyce,serrula,A,FORB,sawtooth sandmat,Annual
+CHSO,Chamaesaracha,sordida,P,FORB,hairy five eyes,PerennialForb
+CHVI4,Chloris,virgata,A,GRASS,showy windmill grass,Annual
+CIOC2,Cirsium,ochrocentrum,BP,FORB,yellowspine thistle,Annual
+COAM8,Corispermum,americanum,A,FORB,American bugseed,Annual
+CODR2,Cooperia,drummondii,P,FORB,evening rainlily,PerennialForb
+COEQ,Convolvulus,equitans,AP,FORB,Texas bindweed,Annual
+COER,Commelina,erecta,P,FORB,whitemouth dayflower,PerennialForb
+COMME,Commelina,sp.,,,Unknown,
+CONDA,Condalia,sp.,,,Unknown,
+CRCR3,Cryptantha,crassisepala,A,FORB,thicksepal cryptantha,Annual
+CRMI,Cryptantha,micrantha,A,FORB,redroot cryptantha,Annual
+CRPO5,Croton,pottsii,P,FORB,leatherweed,PerennialForb
+CRTE4,Croton,texensis,A,FORB,Texas croton,Annual
+CRYPT,Cryptantha,sp.,,,Unknown,
+CYIM2,Cylindropuntia,imbricata,P,S-SHR,tree cholla,PerennialForb
+CYLIN2,Cylindropuntia,sp.,,S-SHR,Unknown,PerennialForb
+CYPER,Cyperus,sp.,,GRASS,Unknown,
+CYRE14,Cyperus,retroflexus,P,GRASS,flat-sedge,Cover
+DACY,Dalea,cylindriceps,P,FORB,andean prairie clover,PerennialForb
+DAFO,Dalea,formosa,P,S-SHR,featherplume,PerennialForb
+DALA3,Dalea,lanata,P,FORB,woolly prairie clover,PerennialForb
+DALEA,Dalea,sp.,,,Unknown,
+DANA,Dalea,nana,P,FORB,dwarf prairie clover,PerennialForb
+DAPO,Dalea,pogonathera,P,FORB,bearded prairie clover,PerennialForb
+DAPU7,Dasyochloa,pulchella,P,GRASS,low woollygrass,Cover
+DECO2,Desmanthus,cooleyi,P,FORB,Cooley's bundleflower,PerennialForb
+DELPH,Delphinium,sp.,,,Unknown,
+DEPI,Descurainia,pinnata,A,FORB,western tansymustard,Annual
+DICA8,Digitaria,californica,P,GRASS,Arizona cottontop,Cover
+DIWI2,Dimorphocarpa,wislizeni,A,FORB,touristplant,Annual
+DRPA3,Drymaria,pachyphylla,A,FORB,thickleaf drymary,Annual
+ECCO2,Echinochloa,colona,A,GRASS,jungle rice,Annual
+ECCO5,Echinocereus,coccineus,P,S-SHR,scarlet hedgehog cactus,PerennialForb
+ENDE,Enneapogon,desvauxii,P,GRASS,nineawn pappusgrass,Cover
+EPHED,Ephedra,sp.,P,SHRUB,Unknown,Cover
+EPTO,Ephedra,torreyana,P,SHRUB,Torrey's jointfir,Cover
+EPTR,Ephedra,trifurca,P,SHRUB,longleaf jointfir,Cover
+ERAB2,Eriogonum,abertianum,A,FORB,Abert's buckwheat,Annual
+ERAGR,Eragrostis,sp.,,GRASS,Unknown,
+ERAN4,Eriogonum,annuum,A,FORB,annual buckwheat,Annual
+ERBE2,Erigeron,bellidiastrum,A,FORB,western daisy fleabane,Annual
+ERCI,Eragrostis,cilianensis,A,GRASS,stinkgrass,Annual
+ERHI3,Eriogonum,hieraciifolium,P,FORB,hawkweed buckwheat,PerennialForb
+ERIOG,Eriogonum,sp.,,,Unknown,
+ERJA,Eriogonum,jamesii,P,FORB,James' buckwheat,PerennialForb
+ERLE,Eragrostis,lehmanniana,P,GRASS,Lehmann lovegrass,Cover
+ERPE,Eragrostis,pectinacea,A,GRASS,tufted lovegrass,Annual
+ERRO2,Eriogonum,rotundifolium,A,FORB,roundleaf buckwheat,Annual
+ERTR8,Eriogonum,trichopes,A,FORB,little deserttrumpet,Annual
+ERUM,Eriogonum,umbellatum,P,FORB,sulphur-flower buckwheat,PerennialForb
+EUDA5,Euphorbia,davidii,A,FORB,David's spurge,Annual
+EUPHO,Euphorbia,sp.,,,Unknown,
+EVNU,Evolvulus,nuttallianus,P,FORB,shaggy dwarf morning-glory,PerennialForb
+FLCE,Flourensia,cernua,P,SHRUB,American tarwort,Cover
+FUCYC,Funastrum,cynanchoides,P,FORB,fringed twinevine,PerennialForb
+GAILL,Gaillardia,sp.,,,Unknown,
+GAPI,Gaillardia,pinnatifida,P,FORB,red dome blanketflower,PerennialForb
+GLBI2,Glandularia,bipinnatifida,AP,FORB,dakota vervain,PerennialForb
+GUSA2,Gutierrezia,sarothrae,P,S-SHR,broom snakeweed,PerennialForb
+GUSP,Gutierrezia,sphaerocephala,AP,FORB,roundleaf snakeweed,Annual
+GUTIE,Gutierrezia,sp.,,,Unknown,
+HAPLO11,Haplopappus,sp.,,,Unknown,
+HEAN3,Helianthus,annuus,A,FORB,common sunflower,Annual
+HECO5,Heliotropium,convolvulaceum,A,FORB,phlox heliotrope,Annual
+HEPE,Helianthus,petiolaris,A,FORB,prairie sunflower,Annual
+HODR,Hoffmannseggia,drepanocarpa,P,FORB,sicklepod holdback,PerennialForb
+HOFFM,Hoffmannseggia,sp.,,,Unknown,
+HOGL2,Hoffmannseggia,glauca,P,FORB,Indian rushpea,PerennialForb
+HOHU,Houstonia,humifusa,A,FORB,matted bluet,Annual
+HYFL,Hymenopappus,flavescens,B,FORB,collegeflower,Annual
+HYOD,Hymenoxys,odorata,A,FORB,bitter rubberweed,Annual
+HYVE,Hybanthus,verticillatus,P,FORB,babyslippers,PerennialForb
+IBTE2,Ibervillea,tenuisecta,P,FORB,slimlobe globeberry,PerennialForb
+IPCO2,Ipomoea,costellata,A,FORB,crestrib morning-glory,Annual
+IPCR,Ipomoea,cristulata,A,FORB,Trans-Pecos morning-glory,Annual
+IPLO2,Ipomopsis,longiflora,AB,FORB,flaxflowered ipomopsis,Annual
+IPOMO2,Ipomopsis,sp.,,,Unknown,
+KAHI,Kallstroemia,hirsutissima,A,FORB,hairy caltrop,Annual
+KALLS,Kallstroemia,sp.,,,Unknown,
+KAPA,Kallstroemia,parviflora,A,FORB,warty caltrop,Annual
+KRLA,Krameria,lanceolata,P,S-SHR,trailing krameria,PerennialForb
+KRLA2,Krascheninnikovia,lanata,P,SHRUB,winterfat,Cover
+LACO13,Laennecia,coulteri,A,FORB,Coulter's horseweed,Annual
+LATR2,Larrea,tridentata,P,SHRUB,creosote bush,Cover
+LEAL4,Lepidium,alyssoides,P,FORB,mesa pepperwort,PerennialForb
+LEDE,Lepidium,densiflorum,AB,FORB,common pepperweed,Annual
+LEDE23,Leuciva,dealbata,P,FORB,woolly marsh elder,PerennialForb
+LEFE,Lesquerella,fendleri,P,FORB,Fendler's bladderpod,PerennialForb
+LEGO,Lesquerella,gordonii,A,FORB,Gordon's bladderpod,Annual
+LELA,Lepidium,lasiocarpum,A,FORB,shaggyfruit pepperweed,Annual
+LESQU,Lesquerella,sp.,,,Unknown,
+LIAU4,Linum,australe,A,FORB,southern flax,Annual
+LIVE2,Linum,vernale,A,FORB,Chihuahuan flax,Annual
+LOTUS,Lotus,sp.,,,Unknown,
+LUPIN,Lupinus,sp.,,,Unknown,Annual
+LYBE,Lycium,berlandieri,P,SHRUB,Berlandier's wolfberry,Cover
+LYPH,Lycurus,phleoides,P,GRASS,common wolfstail,Cover
+LYSE3,Lycurus,setosus,P,GRASS,bristly wolfstail,Cover
+MACHA,Machaeranthera,sp.,,,Unknown,
+MAPI,Machaeranthera,pinnatifida,P,FORB,lacy tansyaster,PerennialForb
+MEAL6,Mentzelia,albicaulis,A,FORB,whitestem blazingstar,Annual
+MELE2,Melampodium,leucanthum,P,FORB,plains blackfoot,PerennialForb
+MEMU3,Mentzelia,multiflora,BP,FORB,Adonis blazingstar,PerennialForb
+MESC,Menodora,scabra,P,S-SHR,rough menodora,PerennialForb
+MIRU5,Mimosa,rupertiana,P,FORB,eastern sensitive plant,PerennialForb
+MOCE,Mollugo,cerviana,A,FORB,threadstem carpetweed,Annual
+MUAR,Muhlenbergia,arenacea,P,GRASS,ear muhly,Cover
+MUAR2,Muhlenbergia,arenicola,P,GRASS,sand muhly,Cover
+MUHLE,Muhlenbergia,sp.,,GRASS,Unknown,
+MUPO2,Muhlenbergia,porteri,P,GRASS,bush muhly,Cover
+MUSQ3,Munroa,squarrosa,A,GRASS,false buffalograss,Annual
+NAHI,Nama,hispidum,A,FORB,bristly nama,Annual
+OEAL,Oenothera,albicaulis,A,FORB,whitest evening primrose,Annual
+OENOT,Oenothera,sp.,,,Unknown,
+OEPA,Oenothera,pallida,P,FORB,pale evening primrose,PerennialForb
+OEPR,Oenothera,primiveris,A,FORB,desert evening primrose,Annual
+OPUNT,Opuntia,sp.,,S-SHR,Unknown,PerennialForb
+PACA6,Panicum,capillare,A,GRASS,witchgrass,Annual
+PAHA,Panicum,hallii,P,GRASS,Hall's panicgrass,Cover
+PAHI5,Panicum,hirticaule,A,GRASS,Mexican panicgrass,Annual
+PAIN2,Parthenium,incanum,P,S-SHR,mariola,PerennialForb
+PANIC,Panicum,sp.,,GRASS,Unknown,
+PAOB,Panicum,obtusum,P,GRASS,vine mesquite,Cover
+PASP,Palafoxia,sphacelata,A,FORB,othake,Annual
+PEAM,Penstemon,ambiguus,P,FORB,gila beardtongue,PerennialForb
+PEAN,Pectis,angustifolia,A,FORB,lemonscent,Annual
+PECTI,Pectis,sp.,,,Unknown,
+PEPA2,Pectis,papposa,A,FORB,manybristle chinchweed,Annual
+PHACE,Phacelia,sp.,,,Unknown,
+PHAU13,Phemeranthus,aurantiacus,P,FORB,orange flameflower,PerennialForb
+PHEME,Phemeranthus,sp.,,,Unknown,
+PHHE4,Physalis,hederifolia,P,FORB,ivyleaf groundcherry,PerennialForb
+PHIN,Phacelia,integrifolia,ABP,FORB,gypsum phacelia,Annual
+PHPO,Phacelia,popei,A,FORB,Pope's phacelia,Annual
+PLANT,Plantago,sp.,,,Unknown,
+PLMU3,Pleuraphis,mutica,P,GRASS,tobosagrass,Cover
+POHA5,Portulaca,halimoides,A,FORB,silkcotton purslane,Annual
+POJA5,Pomaria,jamesii,P,FORB,James' holdback,PerennialForb
+POOL,Portulaca,oleracea,A,FORB,little hogweed,Annual
+POPI3,Portulaca,pilosa,A,FORB,kiss me quick,Annual
+PORTU,Portulaca,sp.,,,Unknown,Annual
+PRGL2,Prosopis,glandulosa,P,SHRUB,honey mesquite,Cover
+PSSC6,Psorothamnus,scoparius,P,SHRUB,broom dalea,Cover
+PSTA,Psilostrophe,tagetina,P,FORB,woolly paperflower,PerennialForb
+REAR,Reverchonia,arenaria,A,FORB,sand reverchonia,Annual
+SAAB,Sanvitalia,abertii,A,FORB,Abert's creeping zinnia,Annual
+SATR12,Salsola,tragus,A,FORB,prickly Russian thistle,Annual
+SCAR,Schismus,arabicus,A,GRASS,Arabian schismus,Annual
+SCBR2,Scleropogon,brevifolius,P,GRASS,burrograss,Cover
+SEBA3,Senna,bauhinioides,P,FORB,twinleaf senna,PerennialForb
+SEFL3,Senecio,flaccidus,P,FORB,threadleaf ragwort,PerennialForb
+SEFLF,Senecio,flaccidus v. flaccidus,P,FORB,threadleaf ragwort,PerennialForb
+SELE6,Setaria,leucopila,P,GRASS,streambed bristlegrass,Cover
+SOEL,Solanum,elaeagnifolium,P,FORB,silverleaf nightshade,PerennialForb
+SPAI,Sporobolus,airoides,P,GRASS,alkali sacaton,Cover
+SPAN3,Sphaeralcea,angustifolia,P,FORB,copper globemallow,PerennialForb
+SPCO,Sphaeralcea,coccinea,P,FORB,scarlet globemallow,PerennialForb
+SPCO4,Sporobolus,contractus,P,GRASS,spike dropseed,Cover
+SPCR,Sporobolus,cryptandrus,P,GRASS,sand dropseed,Cover
+SPFE,Sphaeralcea,fendleri,P,FORB,Fendler's globemallow,PerennialForb
+SPFL2,Sporobolus,flexuosus,P,GRASS,mesa dropseed,Cover
+SPHA,Sphaeralcea,hastulata,P,FORB,spear globemallow,PerennialForb
+SPHAE,Sphaeralcea,sp.,,,Unknown,
+SPIN2,Sphaeralcea,incana,P,FORB,gray globemallow,PerennialForb
+SPNE,Sporobolus,nealleyi,P,GRASS,gyp dropseed,Cover
+SPORO,Sporobolus,sp.,,GRASS,Unknown,Cover
+TECO,Tetraclea,coulteri,P,FORB,Coulter's wrinklefruit,PerennialForb
+THPE4,Thymophylla,pentachaeta,P,FORB,parralena,PerennialForb
+TILA2,Tidestromia,lanuginosa,A,FORB,woolly tidestromia,Annual
+TOWNS,Townsendia,sp.,,,Unknown,
+TRAGI,Tragia,sp.,,,Unknown,
+TRBE,Tragus,berteronianus,A,GRASS,spiked bur grass,Annual
+TRMU,Tridens,muticus,P,GRASS,slim tridens,Cover
+TRNE,Tragia,nepetifolia,P,FORB,catnip noseburn,PerennialForb
+TRTE,Tribulus,terrestris,A,FORB,puncturevine,Annual
+UNKAF,,,A,FORB,Unknown,Annual
+UNKAF1,,,A,FORB,Unknown,Annual
+UNKAF2,,,A,FORB,Unknown,Annual
+UNKAF3,,,A,FORB,Unknown,Annual
+UNKAF4,,,A,FORB,Unknown,Annual
+UNKAG,,,A,GRASS,Unknown,Annual
+UNKCA,,,,S-SHR,Unknown cactus,PerennialForb
+UNKF,,,,FORB,Unknown,
+UNKG,,,,GRASS,Unknown,
+UNKN,,,,,Unknown,
+UNKP,,,P,,Unknown,
+UNKP1,,,P,,Unknown,
+UNKP2,,,P,,Unknown,
+UNKP3,,,P,,Unknown,
+UNKPF,,,P,FORB,Unknown,PerennialForb
+UNKPF1,,,P,FORB,Unknown,PerennialForb
+UNKPF2,,,P,FORB,Unknown,PerennialForb
+UNKPF3,,,P,FORB,Unknown,PerennialForb
+UNKPG,,,P,GRASS,Unknown,Cover
+VACO9,Vachellia,constricta,P,SHRUB,whitethorn acacia,Cover
+VEBR,Verbena,bracteata,ABP,FORB,bigbract verbena,Annual
+VEEN,Verbesina,encelioides,A,FORB,golden crownbeard,Annual
+YUBA,Yucca,baccata,P,SHRUB,banana yucca,Cover
+YUEL,Yucca,elata,P,SHRUB,soaptree yucca,Cover
+ZIAC,Zinnia,acerosa,P,S-SHR,desert zinnia,PerennialForb
+ZIGR,Zinnia,grandiflora,P,S-SHR,Plains zinnia,PerennialForb
