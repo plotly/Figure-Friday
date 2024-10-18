@@ -1,1 +1,1 @@
-Thank you to [SnakeDB](https://snakedb.org/pages/about-snakedb.php) for the data.
+Thank you to [SnakeDB](https://snakedb.org/pages/index.php) for the data.
