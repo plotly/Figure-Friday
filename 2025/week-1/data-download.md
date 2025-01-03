@@ -1,6 +1,6 @@
 ## Download instructions:
 - Go to Joe Hovde's [google sheet](https://docs.google.com/spreadsheets/d/1O_zxndHKhKMIfJ9e7_M5L7b4F3S__d1nVnUS8iZn8yE/edit?gid=0#gid=0) and download it as a CSV sheet. Click File --> Download --> Comma Separate Values
-- Save the CSV sheet in the same directory as the file Python code provided below, and run code.
+- Save the CSV sheet in the same directory as the file of Python code provided below, and run code.
 
 ```python
 import plotly.express as px
