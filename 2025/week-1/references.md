@@ -1,0 +1,1 @@
+Data on the November 2024 marathon results were scraped by researcher & data analyst [Joe Hovde](https://residualthoughts.substack.com/) from the [NYC Marathon Official results page](https://results.nyrr.org/event/M2024/finishers).
