@@ -1,0 +1,1 @@
+Thank you to [USGS](https://www.sciencebase.gov/catalog/item/5f4c13e582ce4c3d12317edf) for the data and to [Michael](https://community.plotly.com/u/mjs/summary) for putting this Figure Friday together.
