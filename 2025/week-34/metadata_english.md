@@ -101,7 +101,3 @@
 **Day of the week (Date and/or time):** Day of the week of the incident
 
 **Calendar month (Date and/or time):** Calendar month of the incident
-
----
-
-Do you want me to also **reformat this into a clean table** (like a structured English data dictionary) so it’s easier to use directly for documentation or analysis?
