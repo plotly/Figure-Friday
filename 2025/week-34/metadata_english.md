@@ -11,7 +11,7 @@
 **Primary cause (List of values):** Primary cause determined following analysis of the incident
 
 * Customers
-* Rolling stock
+* Material on wheels
 * Fixed equipment
 * Train operations
 * Other
@@ -44,7 +44,7 @@
 **Symptom (List of values):** Initial cause attributed at the time of the incident
 
 * Customers
-* Rolling stock
+* Material on wheels
 * Fixed equipment
 * Train operations
 * Fire, smoke, odor, substance, etc.
@@ -76,7 +76,7 @@
 
 **Car door (Number) (Variable text):** Number of the door(s) involved in the incident (1 to 8 and “all”), or “#” if no door is involved
 
-**Rolling stock type (List of values: 73;10):** Type of rolling stock (MR-73 or MPM-10)
+**Material on wheels type (List of values: 73;10):** Type of material on wheels (MR-73 or MPM-10)
 
 **CAT (Boolean):** Indicator of traction power cut (1: yes / 0: no)
 
