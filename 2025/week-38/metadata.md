@@ -1,4 +1,4 @@
-This page is taken from [The Pudding](https://github.com/the-pudding/data/blob/master/one-hit-wonders/README.md)
+This page is a copy of the page on [The Pudding](https://github.com/the-pudding/data/blob/master/one-hit-wonders/README.md)
 
 This contains all of the data used in The Pudding article [One-Hit Wonders in Sports](https://pudding.cool/2018/04/one-hit-onders/) published in April 2018.
 
