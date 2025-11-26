@@ -1,0 +1,94 @@
+Vegetable,Form,RetailPrice,RetailPriceUnit,Yield,CupEquivalentSize,CupEquivalentUnit,CupEquivalentPrice
+Acorn squash,Fresh,1.2136,per pound,0.4586,0.4519,pounds,1.1961
+Artichoke,Fresh,2.4703,per pound,0.375,0.3858,pounds,2.5415
+Artichoke,Canned,3.4498,per pound,0.65,0.3858,pounds,2.0476
+Asparagus,Fresh,2.9531,per pound,0.4938,0.3968,pounds,2.3731
+Asparagus,Canned,3.4328,per pound,0.65,0.3968,pounds,2.0958
+Asparagus,Frozen,6.8212,per pound,1.0335,0.3968,pounds,2.6191
+Avocados,Fresh,2.6737,per pound,0.7408,0.3197,pounds,1.1538
+Beets,Canned,1.1431,per pound,0.65,0.3748,pounds,0.6591
+Black beans,Canned,1.2387,per pound,0.65,0.3858,pounds,0.7352
+Black beans,Dried,1.5250,per pound,2.4692,0.3858,pounds,0.2383
+Blackeye peas,Canned,1.3164,per pound,0.65,0.3748,pounds,0.7590
+Blackeye peas,Dried,1.9265,per pound,2.5397,0.3858,pounds,0.2926
+Broccoli florets,Fresh,2.9162,per pound,1,0.3417,pounds,0.9965
+Broccoli heads,Fresh,3.0820,per pound,0.78,0.3417,pounds,1.3502
+Broccoli,Frozen,2.3458,per pound,0.8818,0.3417,pounds,0.9090
+Brussels sprouts,Fresh,2.9139,per pound,1.06,0.3417,pounds,0.9394
+Brussels sprouts,Frozen,2.5949,per pound,0.96,0.3417,pounds,0.9237
+Butternut squash,Fresh,1.2691,per pound,0.714,0.4519,pounds,0.8033
+"Cabbage, green",Fresh,0.7970,per pound,0.7788,0.3307,pounds,0.3384
+"Cabbage, red",Fresh,1.2604,per pound,0.7791,0.3307,pounds,0.5350
+"Cabbage, sauerkraut",Canned,1.4780,per pound,0.65,0.3086,pounds,0.7018
+"Carrots, cooked whole",Fresh,0.9761,per pound,0.8158,0.3197,pounds,0.3825
+"Carrots, raw whole",Fresh,0.9761,per pound,0.89,0.2756,pounds,0.3022
+"Carrots, baby",Fresh,1.3507,per pound,1,0.2756,pounds,0.3722
+Carrots,Canned,1.1979,per pound,0.65,0.3197,pounds,0.5892
+Carrots,Frozen,1.7277,per pound,0.98,0.3197,pounds,0.5636
+Cauliflower florets,Fresh,3.8022,per pound,0.9702,0.2756,pounds,1.0800
+Cauliflower heads,Fresh,2.1841,per pound,0.8926,0.2756,pounds,0.6743
+Cauliflower,Frozen,2.3974,per pound,0.9304,0.2756,pounds,0.7101
+"Celery, trimmed bunches",Fresh,1.1637,per pound,0.73,0.2646,pounds,0.4217
+Celery sticks,Fresh,2.4941,per pound,1,0.2646,pounds,0.6598
+Collard greens,Fresh,3.0881,per pound,1.16,0.2866,pounds,0.7630
+Collard greens,Canned,1.3315,per pound,0.65,0.3638,pounds,0.7452
+Collard greens,Frozen,2.3512,per pound,0.8818,0.3638,pounds,0.9699
+Corn,Fresh,2.2281,per pound,0.54,0.3638,pounds,1.5009
+Corn,Canned,1.1543,per pound,0.65,0.3638,pounds,0.6460
+Corn,Frozen,1.6889,per pound,0.963,0.3638,pounds,0.6380
+Cucumbers with peel,Fresh,1.2473,per pound,0.97,0.2646,pounds,0.3402
+Cucumbers without peel,Fresh,1.2473,per pound,0.73,0.2646,pounds,0.4520
+Great northern beans,Canned,1.1583,per pound,0.65,0.3858,pounds,0.6875
+Great northern beans,Dried,1.7202,per pound,2.4692,0.3858,pounds,0.2688
+Green beans,Fresh,2.6199,per pound,0.8466,0.2756,pounds,0.8528
+Green beans,Canned,1.1291,per pound,0.65,0.2976,pounds,0.5170
+Green beans,Frozen,1.9983,per pound,0.903,0.2976,pounds,0.6586
+Green peas,Canned,1.3118,per pound,0.65,0.3527,pounds,0.7119
+Green peas,Frozen,1.9960,per pound,0.8924,0.3527,pounds,0.7889
+Green peppers,Fresh,1.4789,per pound,0.82,0.2646,pounds,0.4771
+Kale,Fresh,3.4338,per pound,1.05,0.2866,pounds,0.9373
+Kale,Frozen,2.2983,per pound,0.8995,0.3638,pounds,0.9295
+Kidney beans,Canned,1.1208,per pound,0.65,0.3858,pounds,0.6652
+Kidney beans,Dried,1.9176,per pound,2.4692,0.3858,pounds,0.2996
+Lentils,Dried,1.8390,per pound,2.4692,0.3858,pounds,0.2873
+"Lettuce, iceberg",Fresh,1.2512,per pound,0.95,0.2425,pounds,0.3194
+"Lettuce, romaine, heads",Fresh,2.3074,per pound,0.94,0.2094,pounds,0.5141
+"Lettuce, romaine, hearts",Fresh,3.2802,per pound,0.85,0.2094,pounds,0.8082
+Lima beans,Canned,1.4785,per pound,0.65,0.3748,pounds,0.8525
+Lima beans,Frozen,2.4401,per pound,1.097,0.3748,pounds,0.8336
+Lima beans,Dried,2.3933,per pound,2.5397,0.3858,pounds,0.3636
+"Mixed vegetables, peas & carrots",Canned,1.4754,per pound,0.65,0.3392,pounds,0.7699
+"Mixed vegetables, peas & carrots",Frozen,1.8433,per pound,0.99,0.3392,pounds,0.6315
+"Mixed vegetables, carrots, peas, corn, green beans",Frozen,1.7859,per pound,0.97,0.3340,pounds,0.6150
+"Mixed vegetables, broccoli, cauliflower, carrots",Frozen,2.1538,per pound,0.97,0.3105,pounds,0.6895
+"Mushrooms, whole",Fresh,3.8929,per pound,0.97,0.1543,pounds,0.6194
+"Mushrooms, sliced",Fresh,3.9224,per pound,1,0.1543,pounds,0.6053
+Mustard greens,Canned,1.3367,per pound,0.65,0.3307,pounds,0.6800
+Mustard greens,Frozen,2.4324,per pound,0.7478,0.3307,pounds,1.0756
+Navy beans,Canned,1.2738,per pound,0.65,0.3858,pounds,0.7561
+Navy beans,Dried,1.6073,per pound,2.4692,0.3858,pounds,0.2511
+Okra,Fresh,5.1567,per pound,0.7695,0.3527,pounds,2.3639
+Okra,Frozen,2.2528,per pound,0.8995,0.3748,pounds,0.9387
+Olives,Canned,5.3496,per pound,1,0.2976,pounds,1.5922
+Onions,Fresh,1.1062,per pound,0.9,0.3527,pounds,0.4335
+Pinto beans,Canned,1.1189,per pound,0.65,0.3858,pounds,0.6641
+Pinto beans,Dried,1.4173,per pound,2.4692,0.3858,pounds,0.2215
+Potatoes,Fresh,0.8166,per pound,0.8113,0.2646,pounds,0.2663
+"Potatoes, french fries",Frozen,1.9018,per pound,0.776,0.3417,pounds,0.8374
+Potatoes,Canned,1.0266,per pound,0.65,0.3417,pounds,0.5397
+Pumpkin,Canned,1.8642,per pound,1,0.5401,pounds,1.0069
+Radish,Fresh,1.8126,per pound,0.9,0.2756,pounds,0.5550
+Red peppers,Fresh,1.8742,per pound,0.82,0.2646,pounds,0.6047
+"Spinach, boiled",Fresh,4.1214,per pound,0.77,0.3307,pounds,1.7700
+"Spinach, eaten raw",Fresh,4.1214,per pound,1,0.1543,pounds,0.6360
+Spinach,Canned,1.5676,per pound,0.65,0.3748,pounds,0.9039
+Spinach,Frozen,2.2796,per pound,0.776,0.3748,pounds,1.1010
+Sweet potatoes,Fresh,1.1565,per pound,0.8818,0.4409,pounds,0.5782
+"Tomatoes, grape & cherry",Fresh,3.8729,per pound,0.91,0.3748,pounds,1.5950
+"Tomatoes, roma & plum",Fresh,1.2453,per pound,0.91,0.3748,pounds,0.5129
+"Tomatoes, large round",Fresh,2.1868,per pound,0.91,0.3748,pounds,0.9006
+Tomatoes,Canned,1.0715,per pound,1,0.5401,pounds,0.5787
+Turnip greens,Fresh,2.9250,per pound,0.75,0.3197,pounds,1.2467
+Turnip greens,Canned,1.3154,per pound,0.65,0.3527,pounds,0.7138
+Turnip greens,Frozen,2.5169,per pound,0.776,0.3527,pounds,1.1440
+Zucchini,Fresh,1.6359,per pound,0.7695,0.3968,pounds,0.8437

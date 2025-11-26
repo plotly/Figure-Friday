@@ -1,0 +1,63 @@
+Fruit,Form,RetailPrice,RetailPriceUnit,Yield,CupEquivalentSize,CupEquivalentUnit,CupEquivalentPrice
+Apples,Fresh,1.8541,per pound,0.9,0.2425,pounds,0.4996
+"Apples, applesauce",Canned,1.1705,per pound,1,0.5401,pounds,0.6323
+"Apples, ready-to-drink",Juice,0.8699,per pint,1,8,fluid ounces,0.4349
+"Apples, frozen concentrate",Juice,0.6086,per pint,1,8,fluid ounces,0.3043
+Apricots,Fresh,3.6162,per pound,0.93,0.3638,pounds,1.4145
+"Apricots, packed in juice",Canned,1.8645,per pound,1,0.5401,pounds,1.0071
+"Apricots, packed in syrup or water",Canned,2.2362,per pound,0.65,0.4409,pounds,1.5169
+Apricots,Dried,7.6611,per pound,1,0.1433,pounds,1.0978
+Bananas,Fresh,0.5971,per pound,0.64,0.3307,pounds,0.3085
+"Berries, mixed",Frozen,4.2673,per pound,1,0.3307,pounds,1.4112
+Blackberries,Fresh,6.7483,per pound,0.96,0.3197,pounds,2.2471
+Blackberries,Frozen,4.8277,per pound,1,0.3307,pounds,1.5965
+Blueberries,Fresh,4.1575,per pound,0.95,0.3197,pounds,1.399
+Blueberries,Frozen,3.821,per pound,1,0.3307,pounds,1.2636
+Cantaloupe,Fresh,0.7523,per pound,0.51,0.3748,pounds,0.5528
+Cherries,Fresh,4.6632,per pound,0.92,0.3417,pounds,1.7321
+"Cherries, packed in syrup or water",Canned,5.2418,per pound,0.65,0.4409,pounds,3.5558
+Clementines,Fresh,1.5811,per pound,0.77,0.463,pounds,0.9507
+Cranberries,Dried,5.0828,per pound,1,0.1232,pounds,0.626
+Dates,Dried,5.7499,per pound,1,0.1653,pounds,0.9507
+Figs,Dried,7.3233,per pound,0.96,0.1653,pounds,1.2613
+"Fruit cocktail, packed in juice",Canned,2.394,per pound,1,0.5401,pounds,1.2931
+"Fruit cocktail, packed in syrup or water",Canned,2.0996,per pound,0.65,0.4409,pounds,1.4242
+Grapefruit,Fresh,1.4444,per pound,0.49,0.463,pounds,1.3647
+"Grapefruit, ready-to-drink",Juice,1.1935,per pint,1,8,fluid ounces,0.5968
+Grapes,Fresh,2.0363,per pound,0.96,0.3307,pounds,0.7014
+Grapes (raisins),Dried,3.9936,per pound,1,0.1653,pounds,0.6603
+"Grapes, ready-to-drink",Juice,1.0509,per pint,1,8,fluid ounces,0.5255
+"Grapes, frozen concentrate",Juice,0.7524,per pint,1,8,fluid ounces,0.3762
+Honeydew,Fresh,1.1589,per pound,0.46,0.3748,pounds,0.9442
+Kiwi,Fresh,2.6064,per pound,0.76,0.3858,pounds,1.3231
+Mangoes,Fresh,1.4698,per pound,0.71,0.3638,pounds,0.7531
+Mangoes,Dried,10.3035,per pound,1,0.1253,pounds,1.2906
+Nectarines,Fresh,2.3721,per pound,0.91,0.3197,pounds,0.8333
+Oranges,Fresh,1.4624,per pound,0.68,0.4079,pounds,0.8771
+"Oranges, ready-to-drink",Juice,1.0572,per pint,1,8,fluid ounces,0.5286
+"Oranges, frozen concentrate",Juice,0.7338,per pint,1,8,fluid ounces,0.3669
+Papaya,Fresh,1.3375,per pound,0.62,0.3086,pounds,0.6658
+Papaya,Dried,7.4854,per pound,1,0.1543,pounds,1.1552
+Peaches,Fresh,2.1785,per pound,0.96,0.3417,pounds,0.7755
+"Peaches, packed in juice",Canned,2.2503,per pound,1,0.5401,pounds,1.2155
+"Peaches, packed in syrup or water",Canned,2.0102,per pound,0.65,0.4409,pounds,1.3636
+Peaches,Frozen,3.6058,per pound,1,0.3307,pounds,1.1924
+Pears,Fresh,1.8472,per pound,0.9,0.3638,pounds,0.7466
+"Pears, packed in juice",Canned,2.14,per pound,1,0.5401,pounds,1.1559
+"Pears, packed in syrup or water",Canned,2.092,per pound,0.65,0.4409,pounds,1.4191
+Pineapple,Fresh,0.617,per pound,0.51,0.3638,pounds,0.4401
+"Pineapple, packed in juice",Canned,1.6509,per pound,1,0.5401,pounds,0.8917
+"Pineapple, packed in syrup or water",Canned,1.7771,per pound,0.65,0.4409,pounds,1.2055
+Pineapple,Dried,7.0133,per pound,1,0.1543,pounds,1.0823
+"Pineapple, ready-to-drink",Juice,1.2243,per pint,1,8,fluid ounces,0.6122
+"Pineapple, frozen concentrate",Juice,0.7256,per pint,1,8,fluid ounces,0.3628
+Plum,Fresh,2.5259,per pound,0.94,0.3638,pounds,0.9775
+Plum (prunes),Dried,6.3293,per pound,1,0.1874,pounds,1.1861
+"Plum (prune), ready-to-drink",Juice,1.6988,per pint,1,8,fluid ounces,0.8494
+Pomegranate,Fresh,2.4672,per pound,0.56,0.3417,pounds,1.5055
+"Pomegranate, ready-to-drink",Juice,3.2788,per pint,1,8,fluid ounces,1.6394
+Raspberries,Fresh,7.7338,per pound,0.96,0.3197,pounds,2.5753
+Raspberries,Frozen,6.159,per pound,1,0.3307,pounds,2.0368
+Strawberries,Fresh,2.9682,per pound,0.94,0.3197,pounds,1.0094
+Strawberries,Frozen,3.3421,per pound,1,0.3307,pounds,1.1052
+Watermelon,Fresh,0.382,per pound,0.52,0.3307,pounds,0.2429
