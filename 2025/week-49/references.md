@@ -1,0 +1,1 @@
+Thank you to [Lisa Hornung](https://lazy-cats.netlify.app) and to [Massey University](https://www.researchgate.net/publication/379967638_How_Lazy_Are_Pet_Cats_Really_Using_Machine_Learning_and_Accelerometry_to_Get_a_Glimpse_into_the_Behaviour_of_Privately_Owned_Cats_in_Different_Households) for the data.
