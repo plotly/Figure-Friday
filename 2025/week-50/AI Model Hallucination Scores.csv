@@ -1,0 +1,18 @@
+Model,Accuracy Index (Higher is better),Hallucination Index (Lower is better),Type,Owner
+Claude 4.1 Opus,36%,48%,Proprietary,Anthropic
+Claude 4.5 Sonnet,31%,48%,Proprietary,Anthropic
+DeepSeek R1 0528,29%,83%,Open Weights,DeepSeek
+DeepSeek V3.1 Terminus,27%,74%,Open Weights,DeepSeek
+DeepSeek V3.2-Exp,27%,80%,Open Weights,DeepSeek
+Gemini 2.5 Flash (Sep),27%,88%,Proprietary,Google
+Gemini 2.5 Pro,37%,89%,Proprietary,Google
+GPT-5 (high),39%,81%,Proprietary,OpenAI
+gpt-oss-120B (high),20%,90%,Open Weights,OpenAI
+gpt-oss-20B (high),15%,93%,Open Weights,OpenAI
+Grok 4,39%,64%,Proprietary,xAI
+Grok 4 Fast,22%,67%,Proprietary,xAI
+Kimi K2 0905,24%,69%,Open Weights,Moonshot
+Llama 4 Maverick,23%,88%,Open Weights,Meta
+Llama Nemotron Super 498 v 1.5,16%,76%,Open Weights,Meta
+Magistral Medium 1.2,20%,60%,Proprietary,Mistral AI
+Qwen 3 25B A22 B507,22%,90%,Open Weights,Alibaba
